@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "New Research on Consumer Psychology Published",
+    "date": "2024-01-15",
+    "content": "Excited to share insights from my latest research on consumer behavior patterns in digital marketing environments.",
+    "type": "research",
+    "link": ""
+  },
+  {
+    "id": 2,
+    "title": "Speaking at Psychology Conference 2024",
+    "date": "2024-02-20",
+    "content": "Looking forward to presenting my work on organizational psychology at the International Psychology Conference.",
+    "type": "conference",
+    "link": ""
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "name": "Kasuni Maheeshi Abeykoon",
+  "title": "I-O Psychologist",
+  "email": "maheeshi@example.com",
+  "phone": "+94 XXX XXX XXXX",
+  "location": "Colombo, Sri Lanka",
+  "linkedin": "https://linkedin.com/in/maheeshiabeykoon",
+  "orcid": "",
+  "googleScholar": "",
+  "researchGate": "",
+  "bio": "I am an I-O Psychologist with a strong interest in Organizational Psychology, Neuroscience, Neuromarketing, and Consumer Psychology. I completed my degree in Psychology and Business at CIIHE - Colombo International Institute of Higher Education Sri Lanka. My research focuses on understanding human behavior in organizational contexts and the intersection of psychology with business applications.",
+  "education": [
+    {
+      "degree": "Bachelor of Science in Psychology and Business",
+      "institution": "CIIHE - Colombo International Institute of Higher Education",
+      "location": "Sri Lanka",
+      "year": "2023",
+      "details": "Specialized in Organizational Psychology and Business Applications"
+    }
+  ],
+  "research_interests": [
+    "Organizational Psychology",
+    "Neuroscience",
+    "Neuromarketing", 
+    "Consumer Psychology",
+    "Workplace Behavior",
+    "Employee Engagement"
+  ],
+  "cv_url": "/files/cv.pdf"
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Example Publication Title - The Impact of Organizational Psychology on Employee Performance",
+    "authors": ["Kasuni M. Abeykoon", "Co-Author Name"],
+    "journal": "Journal of Organizational Psychology",
+    "year": "2024",
+    "volume": "15",
+    "issue": "2",
+    "pages": "123-145",
+    "doi": "10.1000/example.doi",
+    "type": "journal",
+    "abstract": "This study examines the relationship between organizational psychology principles and employee performance metrics in modern workplace environments.",
+    "pdf_url": "/files/publication1.pdf",
+    "external_url": "https://example.com/publication1"
+  }
+]
