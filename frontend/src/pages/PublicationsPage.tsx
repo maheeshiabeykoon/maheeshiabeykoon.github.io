@@ -172,7 +172,7 @@ const PublicationsPage: React.FC = () => {
                     rel="noopener noreferrer"
                     className="inline-flex items-center text-sm text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
                   >
-                    <ExternalLinkIcon className="h-4 w-4 mr-1" />
+                    <ArrowTopRightOnSquareIcon className="h-4 w-4 mr-1" />
                     DOI: {publication.doi}
                   </a>
                   <a
