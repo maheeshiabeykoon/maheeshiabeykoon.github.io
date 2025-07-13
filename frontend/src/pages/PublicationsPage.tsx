@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Helmet } from 'react-helmet-async';
-import { ExternalLinkIcon, DocumentArrowDownIcon } from '@heroicons/react/24/outline';
+import { ExternalLinkIcon as LinkIcon, DocumentArrowDownIcon as DownloadIcon } from '@heroicons/react/24/outline';
 
 const publications = [
   {
