@@ -181,7 +181,7 @@ const PublicationsPage: React.FC = () => {
                     rel="noopener noreferrer"
                     className="inline-flex items-center text-sm text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
                   >
-                    <DocumentArrowDownIcon className="h-4 w-4 mr-1" />
+                    <ArrowDownTrayIcon className="h-4 w-4 mr-1" />
                     Download PDF
                   </a>
                 </div>
