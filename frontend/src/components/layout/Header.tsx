@@ -120,6 +120,9 @@ const Header: React.FC = () => {
           </div>
         )}
       </nav>
+
+      {/* Search Modal */}
+      <SearchModal isOpen={isSearchOpen} onClose={() => setIsSearchOpen(false)} />
     </header>
   );
 };
