@@ -51,7 +51,7 @@ const HomePage: React.FC = () => {
                   rel="noopener noreferrer"
                   className="btn-secondary text-center flex items-center justify-center"
                 >
-                  <DocumentArrowDownIcon className="h-5 w-5 mr-2" />
+                  <ArrowDownTrayIcon className="h-5 w-5 mr-2" />
                   Download CV
                 </a>
                 <Link 
