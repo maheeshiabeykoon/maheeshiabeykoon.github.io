@@ -1,7 +1,7 @@
 import React from 'react';
 import { Helmet } from 'react-helmet-async';
 import { Link } from 'react-router-dom';
-import { ArrowDownIcon, DocumentArrowDownIcon, EnvelopeIcon } from '@heroicons/react/24/outline';
+import { ArrowDownIcon, ArrowDownTrayIcon, EnvelopeIcon } from '@heroicons/react/24/outline';
 
 const HomePage: React.FC = () => {
   return (
