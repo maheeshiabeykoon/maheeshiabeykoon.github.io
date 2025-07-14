@@ -16,6 +16,7 @@ const navigation = [
 
 const Header: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
+  const [isSearchOpen, setIsSearchOpen] = useState(false);
   const location = useLocation();
   const { isDark, toggleTheme } = useTheme();
 
