@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Bars3Icon, XMarkIcon, SunIcon, MoonIcon } from '@heroicons/react/24/outline';
+import { Bars3Icon, XMarkIcon, SunIcon, MoonIcon, MagnifyingGlassIcon } from '@heroicons/react/24/outline';
 import { useTheme } from '../../hooks/useTheme';
+import SearchModal from '../ui/SearchModal';
 
 const navigation = [
   { name: 'Home', href: '/' },
